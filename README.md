@@ -10,7 +10,7 @@ public class ReadmeTest{
 }
 ```
 
-[Github 링크] (https://github.com/)
+[Github 링크](https://github.com/)
 
 
 * 목차
