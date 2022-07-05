@@ -61,7 +61,7 @@ public class ReadmeTest{
     github의 issue탭에서 new issue를 누른 후 삽입을 원하는 이미지를 중앙에 드래그하면 링크가 만들어진다. 그 링크를 복사하여 readme에 붙여넣기를 하면 이미지가 삽입된다.
 9. 아이콘 삽입
     아이콘 삽입을 위한 사이트 : https://shields.io/   https://simpleicons.org/
-   [typeScript]
+   [[typeScript]](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
 
 
@@ -79,4 +79,4 @@ public class ReadmeTest{
   * 어떻게 설치, 사용, 테스트하는가
   * 설치 가이드 문서는 어디에 있는가
 * 저작권, 라이선스 정보
- [typeScript] : "https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"
+
